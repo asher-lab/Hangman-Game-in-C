@@ -1,7 +1,6 @@
 // COmpiled using Dev C ++
 
 
-
 #include <stdio.h> // for printf and scanf... etc.
 #include <conio.h>  // for getch function
 #include <string.h> //for strcpy, strcmp, and strlen
