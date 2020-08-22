@@ -5,8 +5,10 @@ Hangman is a game where you guess the letter of the correct word on condition wh
 otherwise - HangMan.
 
 The code has been implented using the following:
-- C programming language
-- Linked Lists
-- Function:
+* C programming language
+* Linked Lists
+* Function:
   - time
   - rand
+
+** If you have a suggestion for the app, please create a pull request and let's implement it in the code to make it better! **
