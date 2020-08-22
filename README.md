@@ -11,4 +11,4 @@ The code has been implented using the following:
   - time
   - rand
 
-** If you have a suggestion for the app, please create a pull request and let's implement it in the code to make it better! **
+**If you have a suggestion for the app, please create a pull request and let's implement it in the code to make it better!**
