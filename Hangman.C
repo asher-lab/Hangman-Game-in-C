@@ -238,7 +238,7 @@ int introduction(char * answer) {
       printf("#    #    *     *   #     *#    #      #        #       #         #         *     *      #     * #				        \n");
       printf("#    #    *     *   #     *#    #      #       #        #         #         *     *      #      *#				        \n");
       printf("#    #    *     *   #      #    ########      #          #         #        *     *      #       #  		            \n");
-      printf("\n\n     Welcome to the Hangman Game. \n-->This program was made by Asher V. Manangan <--\n        URL: ashermanangan.xyz\n");
+      printf("\n\n     Welcome to the Hangman Game. \n-->This program was made by Asher <--\n        URL: asher\n");
    }
 
    //Ask the user for decision and save it to choice.
